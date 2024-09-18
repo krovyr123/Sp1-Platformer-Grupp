@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - EnemyBlock
+  - Enemy
+  - Cherry
+  - Health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - EnemyBlock
+  - Player
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back1
+    uniqueID: 1713563347
+    locked: 0
+  - name: back2
+    uniqueID: 548289041
+    locked: 0
+  - name: back3
+    uniqueID: 3096023377
+    locked: 0
+  - name: back4
+    uniqueID: 1336210253
+    locked: 0
+  - name: foreground
+    uniqueID: 3142854077
+    locked: 0
+  - name: player
+    uniqueID: 1682219893
+    locked: 0
+  - name: real foreground
+    uniqueID: 3025553045
+    locked: 0

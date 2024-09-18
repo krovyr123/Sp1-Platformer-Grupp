@@ -1,0 +1,4 @@
+repository "Platform uppgift 3.0@krovyr123@cloud"
+  path "/"
+    br "/main"
+    co "/main"
